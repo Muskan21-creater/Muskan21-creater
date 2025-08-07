@@ -8,24 +8,6 @@ Welcome to my GitHub! I'm Muskan — an enthusiastic learner passionate about Ar
 - 📚 Majoring in Artificial Intelligence<br/>
 - 🛠 Skills: Java, LeetCode, C++, Data Analysis, Visualization, and Strategy<br/>
 - 💡 Interested in Machine Learning, Embedded Systems, and Automation<br/>
-
-## 📂 Repository Highlights
-
-- 🤖 AI and ML Projects
-- 📊 Data Visualization Work
-- 🧩 Small Automations and Utilities
-
-## ✨ Currently Exploring
-
-- Reinforcement Learning and Real-World Applications
-- Hackathons, Open Source, and AI-powered tools
-- Azure OpenAI, ONNX, and Speech Recognition
-
-## 📫 Connect With Me
-
-- 📧 Email: [muskanahamed06@gmail.com]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/muskan-ahamed-1b715b295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Muskanahamed21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muskan-ahamed-1b715b295?utm_source=share&u) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muskanahamed06@gmail.com) 
 
@@ -40,3 +22,16 @@ Welcome to my GitHub! I'm Muskan — an enthusiastic learner passionate about Ar
 [![](https://visitcount.itsvg.in/api?id=Muskan21-creater&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## ✨ Currently Exploring
+
+- Reinforcement Learning and Real-World Applications
+- Hackathons, Open Source, and AI-powered tools
+- Azure OpenAI, ONNX, and Speech Recognition
+
+## 📫 Connect With Me
+
+- 📧 Email: [muskanahamed06@gmail.com]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/muskan-ahamed-1b715b295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+
